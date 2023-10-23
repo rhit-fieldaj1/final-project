@@ -1,0 +1,27 @@
+body {
+    background: #BBAADD;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+* {
+    color:#660099;
+}
+
+button {
+    cursor: pointer;
+}
+
+.section {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.actions {
+    margin: 10px 40px 10px 40px;
+    text-align: center;
+}
+.action {
+    margin: 2px;
+    display: contents;
+}
